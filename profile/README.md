@@ -1,6 +1,4 @@
-# 🚀 Code Genius System
-
-Bem-vindo ao repositório oficial da Code Genius System! 👋  
+<h1>Bem-vindo ao repositório oficial da Code Genius System! 👋 </h1>  
 Aqui centralizamos todos os projetos, bibliotecas, guidelines e boas práticas utilizadas por nossa equipe.
 
 Nossas Tecnologias</br></br>
