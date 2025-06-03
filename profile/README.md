@@ -1,5 +1,4 @@
 <h1>Bem-vindo ao repositório oficial da Code Genius System! 👋 </h1>  
-Aqui centralizamos todos os projetos. </br>
 
 Nossas Tecnologias</br></br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50" height="50"></img>
