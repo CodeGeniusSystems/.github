@@ -12,3 +12,4 @@ Nossas Tecnologias</br></br>
 - `Prisma ORM` / `PostgreSQL`
 - `Fastify` / `Express`
 - `React` / `Next.js`
+- `PHP` / `Laravel`
